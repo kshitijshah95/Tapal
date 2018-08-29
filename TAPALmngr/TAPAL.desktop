@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TAPALMngr
+Comment=Manager
+Exec=/var/www/TAPALmngr/Tmngr.sh
+Icon=/var/www/logo.png
+Terminal=true
+Type=Application

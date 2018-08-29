@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TAPALMulti
+Comment=Multi-Threading Code
+Exec=/var/www/TAPALmulti/Tmulti.sh
+Icon=/var/www/logo.png
+Terminal=true
+Type=Application

@@ -1,0 +1,6 @@
+#!/bin/bash         
+
+echo "Welcome to the TAPAL Mail."
+cd /var/www/TAPALmail/src
+javac MailUI.java
+java MailUI
